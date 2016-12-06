@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`8`, `latest` (*8/Dockerfile*)](https://github.com/kratochj/docker-java/releases/tag/8)
+- [`8`, `latest` (*8/Dockerfile*)](https://github.com/kratochj/docker-java/blob/8/Dockerfile)
 
 # What is Java?
 
